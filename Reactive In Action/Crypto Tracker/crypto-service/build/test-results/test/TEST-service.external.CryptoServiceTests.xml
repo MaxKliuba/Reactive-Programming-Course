@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.external.CryptoServiceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-15T12:42:51" hostname="DESKTOP-CSHM88O" time="0.411">
+  <properties/>
+  <testcase name="verifyThatSupportReplayMode()" classname="service.external.CryptoServiceTests" time="0.227"/>
+  <testcase name="verifyThatSupportMultiSubscribers()" classname="service.external.CryptoServiceTests" time="0.065"/>
+  <testcase name="verifyThatSupportIsolationAndResilience()" classname="service.external.CryptoServiceTests" time="0.117"/>
+  <system-out><![CDATA[14:42:52.109 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
